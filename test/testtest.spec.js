@@ -1,5 +1,5 @@
-ddescribe("testtest", function () {
-    iit("true is true", function () {
+describe("testtest", function () {
+    it("true is true", function () {
         expect(true).toBe(true);
     });
 });

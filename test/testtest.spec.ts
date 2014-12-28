@@ -1,5 +1,5 @@
-﻿ddescribe("testtest", () => {
-    iit("true is true", () => {
+﻿describe("testtest", () => {
+    it("true is true", () => {
         expect(true).toBe(true);
     });
 });
