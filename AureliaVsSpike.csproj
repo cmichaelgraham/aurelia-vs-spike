@@ -27,12 +27,15 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="Scripts\typings\jasmine\jasmine.d.ts" />
+    <TypeScriptCompile Include="Scripts\typings\karma-jasmine\karma-jasmine.d.ts" />
     <TypeScriptCompile Include="test\testtest.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".npmignore" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="packages.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
