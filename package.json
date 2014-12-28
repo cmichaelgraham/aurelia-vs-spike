@@ -1,0 +1,23 @@
+{
+  "name": "aurelia-vs-spike",
+  "version": "0.1.0",
+  "description": "spike project to test out starting from scratch, karma testing on windows, and TypeScript VS IE breakpoints",
+  "main": "app.js",
+  "dependencies": {
+    "karma-jspm": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmichaelgraham/aurelia-vs-spike.git"
+  },
+  "author": "cmichaelgraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmichaelgraham/aurelia-vs-spike/issues"
+  },
+  "homepage": "https://github.com/cmichaelgraham/aurelia-vs-spike"
+}
