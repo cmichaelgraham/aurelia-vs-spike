@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/cmichaelgraham/aurelia-vs-spike/issues"
   },
-  "homepage": "https://github.com/cmichaelgraham/aurelia-vs-spike"
+  "homepage": "https://github.com/cmichaelgraham/aurelia-vs-spike",
+  "jspm": {}
 }
